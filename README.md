@@ -1,0 +1,2 @@
+# SeatingPlanPicker
+一个基于office宏的座位表抽取器
